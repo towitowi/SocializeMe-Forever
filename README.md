@@ -1,2 +1,1 @@
-# SocializeMe-Forever
-Official repository for the SocializeMe Forever WoW Addon containing marcos socialationscripts
+Official repository for the SocializeMe Forever WoW Add-on containing macros and socialization scripts.
