@@ -1,0 +1,24 @@
+<Bindings>
+	<!-- Tastenbelegungen: Hauptmenü > Tastaturbelegung > AddOns > SocializeMe Forever -->
+	<Binding name="SOCIALIZEMEFOREVER_TOGGLE" header="SOCIALIZEMEFOREVER" category="ADDONS">
+		SocializeMeForever:Bind("toggle")
+	</Binding>
+	<Binding name="SOCIALIZEMEFOREVER_BEACON" category="ADDONS">
+		SocializeMeForever:Bind("beacon")
+	</Binding>
+	<Binding name="SOCIALIZEMEFOREVER_WAVE" category="ADDONS">
+		SocializeMeForever:Bind("wave")
+	</Binding>
+	<Binding name="SOCIALIZEMEFOREVER_STOP" category="ADDONS">
+		SocializeMeForever:Bind("stop")
+	</Binding>
+	<Binding name="SOCIALIZEMEFOREVER_MUSIC" category="ADDONS">
+		SocializeMeForever:Bind("music")
+	</Binding>
+	<Binding name="SOCIALIZEMEFOREVER_EAR" category="ADDONS">
+		SocializeMeForever:Bind("ear")
+	</Binding>
+	<Binding name="SOCIALIZEMEFOREVER_CIRCLE" category="ADDONS">
+		SocializeMeForever:Bind("circle")
+	</Binding>
+</Bindings>

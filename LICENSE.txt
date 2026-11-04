@@ -1,0 +1,49 @@
+SocializeMe Forever - Lizenz / License
+======================================
+
+Copyright (c) 2026 towitowi. Alle Rechte vorbehalten. / All rights reserved.
+
+DEUTSCH
+
+1. Nutzung: Du darfst SocializeMe Forever kostenlos herunterladen, installieren und im
+   Spiel benutzen.
+
+2. Eigene Änderungen: Du darfst den Code für dich selbst lesen und auf deinem eigenen
+   Rechner ändern.
+
+3. Weitergabe nur mit Erlaubnis: Ohne schriftliche Erlaubnis des Autors ist es NICHT erlaubt,
+   a) veränderte Versionen weiterzugeben oder zu veröffentlichen (z. B. auf CurseForge,
+      Wago, GitHub, in Foren oder Discord),
+   b) das Addon oder Teile davon unter demselben oder einem ähnlichen Namen zu veröffentlichen,
+   c) Versionen weiterzugeben, in denen die Regeln, der Troll-Schutz, das Melden oder die
+      Schutzregeln von "Ein offenes Ohr" entfernt oder abgeschwächt sind,
+   d) das Addon zu verkaufen oder Geld dafür zu verlangen.
+   Die unveränderte Originaldatei darfst du gern an Freunde weitergeben.
+
+4. Fremde Bestandteile behalten ihre eigenen Lizenzen:
+   - Bibliotheken im Ordner Libs (LibStub, CallbackHandler, HereBeDragons) - siehe Libs/README.txt
+   - die drei Lieder im Ordner Music von RandomMind (CC0) - siehe Music/CREDITS.txt
+
+5. Keine Gewähr: Das Addon wird so bereitgestellt, wie es ist, ohne Garantie. Der Code ist
+   nach Blizzards Richtlinie für Addons offen lesbar.
+
+ENGLISH
+
+1. Use: You may download, install and use SocializeMe Forever in the game for free.
+
+2. Your own changes: You may read the code and change it on your own computer for yourself.
+
+3. Sharing only with permission: Without written permission from the author you may NOT
+   a) share or publish changed versions (e.g. on CurseForge, Wago, GitHub, forums or Discord),
+   b) publish the addon or parts of it under the same or a similar name,
+   c) share versions in which the rules, the troll protection, reporting or the safety rules
+      of "An Open Ear" are removed or weakened,
+   d) sell the addon or charge money for it.
+   You are welcome to share the unchanged original file with friends.
+
+4. Third-party parts keep their own licenses:
+   - libraries in the Libs folder (LibStub, CallbackHandler, HereBeDragons) - see Libs/README.txt
+   - the three songs in the Music folder by RandomMind (CC0) - see Music/CREDITS.txt
+
+5. No warranty: The addon is provided as is, without any warranty. As required by Blizzard's
+   add-on policy, the code is openly readable.
